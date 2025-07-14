@@ -1,5 +1,5 @@
 ## Demo
- <h1 align='center' 
+ <h1 align='center' >
     ![Screenshot 2023-10-07 174704](https://github.com/NilanjanPramanik/Web-Development-Projects/assets/121485018/4d4bd53a-9ba2-47fd-a68b-5ac298bc7e03)
  </h1>
 # Weather Web App
